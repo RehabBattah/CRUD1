@@ -1,0 +1,11 @@
+body{
+    background-color: gainsboro;
+}
+
+#search::placeholder{
+    font-style: italic;
+    opacity: 55%;
+}
+textarea{
+    resize: none;
+}
